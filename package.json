@@ -1,0 +1,29 @@
+{
+  "name": "slapp-team-join",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robotsandpencils/slapp-team-join.git"
+  },
+  "keywords": [
+    "slapp"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/robotsandpencils/slapp-team-join/issues"
+  },
+  "homepage": "https://github.com/robotsandpencils/slapp-team-join",
+  "dependencies": {
+    "slapp": "1.1.1",
+    "slapp-context-beepboop": "1.0.1",
+    "express": "^4.13.4"
+  },
+  "devDependencies": {
+  }
+}
