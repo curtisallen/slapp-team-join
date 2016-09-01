@@ -1,0 +1,8 @@
+name: teamevent
+description: a test bot
+avatar:
+config:
+slackscopes:
+  - commands
+  - bot
+  - users:read
